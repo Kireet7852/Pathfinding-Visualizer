@@ -1,6 +1,6 @@
 # PATHFINDING AND MAZE GENERATION VISUALIZER
 
-[Click here to check out the website](https://googgle.com)
+[Click here to check out the website](http://Kireet7852.github.io/Pathfinding-Visualizer/)
 
 
 ## Screenshot:
