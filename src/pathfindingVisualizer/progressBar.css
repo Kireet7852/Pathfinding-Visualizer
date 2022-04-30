@@ -1,0 +1,11 @@
+.visited-nodes-bar {
+    display: inline-block;
+    margin-right: 10px;
+    color: white;
+}
+
+.shortest-nodes-bar {
+    display: inline-block;
+    margin-right: 10px;
+    color: white;
+}
